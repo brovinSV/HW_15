@@ -1,0 +1,3 @@
+2023-03-23 20:40:23,361: INFO: server_program line: 12 initialize the port
+2023-03-23 20:41:24,012: ERROR: server_program line: 31 data has not been sent to the client
+2023-03-23 20:41:39,692: WARNING: server_program line: 26 no data received
